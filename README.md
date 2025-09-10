@@ -1,5 +1,3 @@
-Got it 👍 You want a **ready-to-use README.md** that includes not just setup instructions but also **code snippets** showing how your Express-based URL shortener works. Here’s a full version you can directly use 👇
-
 ````markdown
 # 🚀 URL Shortener
 
