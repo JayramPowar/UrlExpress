@@ -59,7 +59,7 @@
             // console.log(formData.get("url"));
 
             try{
-                const res = await fetch("/shorten", {
+                const res = await fetch("https://url-express.vercel.app/shorten", {
                     method : "POST",
                     headers:{"Content-Type":"application/json"},
                     body: JSON.stringify({url,shortCode})
